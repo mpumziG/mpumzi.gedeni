@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeBank", "AcmeBank\AcmeBank.csproj", "{6DD2B46D-99F1-44E2-9F56-A6DD265BD257}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C56B1701-6F80-478A-B84E-52BF3EF915B1} = {C56B1701-6F80-478A-B84E-52BF3EF915B1}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeBank.Data", "AcmeBank.Data\AcmeBank.Data.csproj", "{BF28FFF6-FD91-4810-A437-8DCC04393058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcmeBank.Services", "AcmeBank.Services\AcmeBank.Services.csproj", "{C56B1701-6F80-478A-B84E-52BF3EF915B1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BF28FFF6-FD91-4810-A437-8DCC04393058} = {BF28FFF6-FD91-4810-A437-8DCC04393058}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD2B46D-99F1-44E2-9F56-A6DD265BD257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD2B46D-99F1-44E2-9F56-A6DD265BD257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD2B46D-99F1-44E2-9F56-A6DD265BD257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD2B46D-99F1-44E2-9F56-A6DD265BD257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF28FFF6-FD91-4810-A437-8DCC04393058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF28FFF6-FD91-4810-A437-8DCC04393058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF28FFF6-FD91-4810-A437-8DCC04393058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF28FFF6-FD91-4810-A437-8DCC04393058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C56B1701-6F80-478A-B84E-52BF3EF915B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56B1701-6F80-478A-B84E-52BF3EF915B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56B1701-6F80-478A-B84E-52BF3EF915B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56B1701-6F80-478A-B84E-52BF3EF915B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

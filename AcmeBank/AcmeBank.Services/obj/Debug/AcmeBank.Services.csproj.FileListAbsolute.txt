@@ -1,0 +1,7 @@
+c:\Users\Chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank.Services\bin\Debug\AcmeBank.Services.dll
+c:\Users\Chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank.Services\bin\Debug\AcmeBank.Services.pdb
+c:\Users\Chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank.Services\bin\Debug\AcmeBank.Data.dll
+c:\Users\Chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank.Services\bin\Debug\AcmeBank.Data.pdb
+c:\Users\Chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank.Services\obj\Debug\AcmeBank.Services.csprojResolveAssemblyReference.cache
+c:\Users\Chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank.Services\obj\Debug\AcmeBank.Services.dll
+c:\Users\Chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank.Services\obj\Debug\AcmeBank.Services.pdb

@@ -1,0 +1,14 @@
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\AcmeBank.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\AcmeBank.exe
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\AcmeBank.pdb
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\AcmeBank.Services.dll
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\EntityFramework.dll
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\AcmeBank.Data.dll
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\AcmeBank.Services.pdb
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\EntityFramework.xml
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\bin\Debug\AcmeBank.Data.pdb
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\obj\Debug\AcmeBank.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\obj\Debug\AcmeBank.exe
+c:\users\chris\documents\visual studio 2015\Projects\AcmeBank\AcmeBank\obj\Debug\AcmeBank.pdb
